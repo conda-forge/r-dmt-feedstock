@@ -1,11 +1,11 @@
-About r-dmt
-===========
+About r-dmt-feedstock
+=====================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-dmt-feedstock/blob/main/LICENSE.txt)
 
 Home: https://CRAN.R-project.org/package=dmt
 
 Package license: BSD-2-Clause
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-dmt-feedstock/blob/main/LICENSE.txt)
 
 Summary: Probabilistic dependency modeling toolkit.
 
